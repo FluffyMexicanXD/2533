@@ -1,0 +1,4 @@
+Este es el segundo archibo para subir. 
+Este tambien se tiene que add i 
+despes commit 
+y finalmente push 
